@@ -1,2 +1,2 @@
 
-This repo contains my publications, should anyone be interested
+This repo contains my publications and presentations, should anyone be interested
